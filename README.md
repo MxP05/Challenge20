@@ -29,8 +29,12 @@ The smart contract will use ether management functions to implement a financial 
 
 
 *Setaccounts, deposit, withdraw images in order*
-![Verify](https://github.com/MxP05/challenge-18/blob/main/verify.png?raw=true)
-![Validate](https://github.com/MxP05/challenge-18/blob/main/validate.png?raw=true)
+![Setaccounts](https://github.com/MxP05/Challenge20/blob/main/Execution_Results/setaccount1.png?raw=true)
+![Deposit1](https://github.com/MxP05/Challenge20/blob/main/Execution_Results/deposit1.png?raw=true)
+![Deposit2](https://github.com/MxP05/Challenge20/blob/main/Execution_Results/deposit2.png?raw=true)
+![Deposit3](https://github.com/MxP05/Challenge20/blob/main/Execution_Results/deposit3.png?raw=true)
+![Withdraw1](https://github.com/MxP05/Challenge20/blob/main/Execution_Results/withdraw1.png?raw=true)
+![Withdraw2](https://github.com/MxP05/Challenge20/blob/main/Execution_Results/withdraw2.png?raw=true)
 ---
 ## Summary evaluation
 A succesfull smart contract deployment will, deploy ,set accounts, deposit, and withdraw without errors.
